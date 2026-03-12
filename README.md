@@ -48,12 +48,3 @@ restaurant_weather_analysis/
 ![Revenue Timeline](outputs/fig4_revenue_timeline.png)
 ```
 
-Click **Commit changes**.
-
----
-
-## What you have now
-
-Your project is live on the internet at:
-```
-https://github.com/YOUR_USERNAME/restaurant-weather-analysis
